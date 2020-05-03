@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fun-With-While-Loops/1.0.0": {
+        "runtime": {
+          "Fun-With-While-Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fun-With-While-Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
